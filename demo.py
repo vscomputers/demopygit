@@ -1,3 +1,4 @@
 print("hello")
 print("welcome to vscomputers")
-printf("hi.............")
+print("hi.............")
+print("thanks")
